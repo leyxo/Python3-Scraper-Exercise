@@ -1,13 +1,17 @@
 # Python3-Scraper-Exercise
 
 ## 需要用到的库
-_urllib_
+__urllib__
 
-_urllib.request_
+__urllib.request__
 
-_requests_ 基于urllib的http库
+__requests__ 基于urllib的http库
 
-_selenium_ 自动化测试库，驱动浏览器执行js渲染
+__selenium__ 自动化测试库，驱动浏览器执行js渲染
 
-_selenium.webdriver_
+__selenium.webdriver__
+
+##常用库
+
++requests +selenium +beautifulsoup4 +pyquery +pymysql +pymongo +redis +flask +diango +jupyter
 
